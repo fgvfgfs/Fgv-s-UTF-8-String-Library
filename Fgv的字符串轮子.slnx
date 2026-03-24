@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="模块测试/模块测试.vcxproj" Id="b4056d5d-38d2-4afa-b7f8-13fe6ade3140" />
+  <Project Path="Fgv的字符串轮子/Fgv的字符串轮子.vcxproj" Id="b4056d5d-38d2-4afa-b7f8-13fe6ade3140" />
 </Solution>
